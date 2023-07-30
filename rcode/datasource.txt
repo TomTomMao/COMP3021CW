@@ -1,0 +1,4 @@
+TheDevastator. (2021). Airbnb Prices in European Cities. https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
+
+Origin:
+Gyódi, K., & Nawaro, Ł. (2021). Determinants of Airbnb prices in European cities: A spatial econometrics approach (Supplementary Material) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4446043
